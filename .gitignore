@@ -43,16 +43,22 @@
 # Build directories
 build/
 cmake-build-*/
+<<<<<<< HEAD
 out/
+=======
+>>>>>>> master
 
 # CMake generated files
 compile_commands.json
 CMakeCache.txt
 CMakeFiles/
+<<<<<<< HEAD
 cmake_install.cmake
 Makefile
 CTestTestfile.cmake
 _deps/
+=======
+>>>>>>> master
 
 # IDE and editor files
 .cache/
@@ -65,6 +71,9 @@ _deps/
 
 # Mac files
 .DS_Store
+<<<<<<< HEAD
 
 # Test artifacts
 Testing/
+=======
+>>>>>>> master
