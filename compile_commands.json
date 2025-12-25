@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Users/krishasija/Documents/blitzscale-sim/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/krishasija/Documents/blitzscale-sim/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wall -Wextra -pedantic -o CMakeFiles/blitzscale.dir/src/main.cpp.o -c /Users/krishasija/Documents/blitzscale-sim/src/main.cpp",
+  "file": "/Users/krishasija/Documents/blitzscale-sim/src/main.cpp",
+  "output": "CMakeFiles/blitzscale.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Users/krishasija/Documents/blitzscale-sim/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++  -I/Users/krishasija/Documents/blitzscale-sim/include -std=gnu++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wall -Wextra -pedantic -o CMakeFiles/blitzscale.dir/src/gpu.cpp.o -c /Users/krishasija/Documents/blitzscale-sim/src/gpu.cpp",
+  "file": "/Users/krishasija/Documents/blitzscale-sim/src/gpu.cpp",
+  "output": "CMakeFiles/blitzscale.dir/src/gpu.cpp.o"
+}
+]

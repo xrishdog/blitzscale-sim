@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/blitzscale.dir/src/main.cpp.o CMakeFiles/blitzscale.dir/src/network.cpp.o CMakeFiles/blitzscale.dir/src/gpu.cpp.o -o blitzscale
